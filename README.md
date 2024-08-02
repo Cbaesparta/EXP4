@@ -52,6 +52,9 @@ int main()
     return 0;
 }
 ```
+### OUTPUT:
+![Screenshot 2024-08-02 121317](https://github.com/user-attachments/assets/b9f82240-c5e1-4328-8b4e-5833b6dfca88)
+
 
 
 ## Conclusion
